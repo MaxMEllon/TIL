@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+set -eu
+
+touch "$(date "+%m%d")".md
